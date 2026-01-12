@@ -3,7 +3,7 @@
     "name": "Artesanos Café",
     "tagline": "Coffee brings us together ☕️",
     "description": "Passionate about coffee, cravings, and great moments. Coffee is what gathers us and keeps us moving.",
-    "address": "Paraguayo Independiente 821 (Across from Plaza de los Desaparecidos), Asunción, Paraguay",
+    "address": "Dr Emilio Hassler y San Roque González de Santa Cruz, Asunción, Paraguay",
     "hours": {
       "weekdays": "Monday - Friday: 9:00 AM - 8:30 PM",
       "weekends": "Saturday - Sunday: 8:30 AM - 9:00 PM"
@@ -15,7 +15,7 @@
       "linktree": "https://linktr.ee/artesanoscafe"
     },
     "googleMapsUrl": "https://maps.app.goo.gl/kZoeiitz4fLTQZr47",
-    "cloudinaryFolder": "artesanos"
+    "cloudinaryFolder": "v1768176795"
   },
   "nav": {
     "home": "Home",
@@ -30,7 +30,7 @@
       "subtitle": "Coffee is what brings us together",
       "text": "A place to share: coffee, cravings, and good moments. Come enjoy an artisan-flavored ritual.",
       "cta": { "label": "View Menu", "href": "menu" },
-      "image": "artesanos_hero"
+      "image": "artesanos_hero_hi1ol0"
     },
     "features": {
       "title": "Why choose Artesanos",
@@ -53,15 +53,15 @@
       ]
     },
     "gallery": [
-      "artesanos_coffee_01",
-      "artesanos_food_01",
-      "artesanos_table_01",
-      "artesanos_interior_01",
-      "artesanos_coffee_02"
+      "artesanos_coffee_01_jqogfw",
+      "artesanos_food_01_dzakqc",
+      "artesanos_table_01_ryfvmb",
+      "artesanos_interior_01_hjlgks",
+      "artesanos_coffee_02_yvpn2m"
     ],
     "visit": {
       "title": "Visit us",
-      "text": "Paraguayo Independiente 821 — Asunción. We’ll be waiting with coffee and a great moment.",
+      "text": "Dr Emilio Hassler y San Roque González de Santa Cruz,, Asunción. We’ll be waiting with coffee and a great moment.",
       "button": "Get directions"
     }
   },
@@ -113,9 +113,9 @@
         "short": "A Paraguayan classic, crispy and cheesy.",
         "long": "Perfect for breakfast or afternoon treats: simple, well-made, always worth it.",
         "images": [
-          "artesanos_food_01",
-          "artesanos_food_02",
-          "artesanos_table_01"
+          "artesanos_food_01_dzakqc",
+          "artesanos_food_02_pazxnn",
+          "artesanos_table_01_ryfvmb"
         ]
       },
       {
@@ -123,11 +123,11 @@
         "name": "Homemade cake",
         "price": 25000,
         "short": "A generous slice, artisan style.",
-        "long": "Flavors rotate daily — ask what’s available today.",
+        "long": "Flavors rotate daily, ask what’s available today.",
         "images": [
-          "artesanos_cake_01",
-          "artesanos_cake_02",
-          "artesanos_coffee_01"
+          "artesanos_cake_01_w82lar",
+          "artesanos_cake_02_h2dpnl",
+          "artesanos_coffee_01_jqogfw"
         ]
       }
     ]
@@ -136,10 +136,10 @@
     "title": "Our Story",
     "subtitle": "Made with care, meant to be shared",
     "story": {
-      "image": "artesanos_interior_01",
+      "image": "artesanos_interior_01_hjlgks",
       "paragraphs": [
         "Artesanos was born from a simple idea: creating a place where coffee is the meeting point.",
-        "We’re community, flavor, and consistency — aiming for every cup to keep its quality, here and anywhere."
+        "We’re community, flavor, and consistency, aiming for every cup to keep its quality, here and anywhere."
       ]
     },
     "teamTitle": "Our Team",
@@ -151,7 +151,7 @@
         "bio": "We take care of the details so you always come back for what feels good."
       }
     ],
-    "bannerImage": "artesanos_banner"
+    "bannerImage": "artesanos_banner_vfrzht"
   },
   "contactPage": {
     "title": "Contact us",
@@ -194,7 +194,7 @@
   },
   "seo": {
     "title": "Coffee in Asunción | Artesanos Café",
-    "description": "Artesanos Café: coffee, cravings, and great moments in Asunción. Visit us at Paraguayo Independiente 821.",
+    "description": "Artesanos Café: coffee, cravings, and great moments in Asunción. Visit us at Dr Emilio Hassler y San Roque González de Santa Cruz.",
     "keywords": [
       "coffee in Asunción",
       "coffee shop",
@@ -203,6 +203,6 @@
       "breakfast",
       "afternoon treats"
     ],
-    "ogImage": "og.png"
+    "ogImage": "og.jpg"
   }
 }

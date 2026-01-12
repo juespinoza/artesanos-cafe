@@ -3,7 +3,7 @@
     "name": "Artesanos Café",
     "tagline": "El café nos une ☕️",
     "description": "Apasionados del café, los antojos y los buenos momentos. El café es lo que nos convoca y nos pone en movimiento.",
-    "address": "Paraguayo Independiente 821 (Frente a la Plaza de los Desaparecidos), Asunción, Paraguay",
+    "address": "Dr Emilio Hassler y San Roque González de Santa Cruz, Asunción, Paraguay",
     "hours": {
       "weekdays": "Lunes - Viernes: 9:00 AM - 8:30 PM",
       "weekends": "Sábado - Domingo: 8:30 AM - 9:00 PM"
@@ -15,7 +15,7 @@
       "linktree": "https://linktr.ee/artesanoscafe"
     },
     "googleMapsUrl": "https://maps.app.goo.gl/kZoeiitz4fLTQZr47",
-    "cloudinaryFolder": "artesanos"
+    "cloudinaryFolder": "v1768176795"
   },
   "nav": {
     "home": "Inicio",
@@ -30,7 +30,7 @@
       "subtitle": "El café es lo que nos convoca",
       "text": "Un espacio para compartir: café, antojos y buenos momentos. Vení a vivir el ritual con sabor artesanal.",
       "cta": { "label": "Ver el Menú", "href": "menu" },
-      "image": "artesanos_hero"
+      "image": "artesanos_hero_hi1ol0"
     },
     "features": {
       "title": "Por qué elegir Artesanos",
@@ -53,15 +53,15 @@
       ]
     },
     "gallery": [
-      "artesanos_coffee_01",
-      "artesanos_food_01",
-      "artesanos_table_01",
-      "artesanos_interior_01",
-      "artesanos_coffee_02"
+      "artesanos_coffee_01_jqogfw",
+      "artesanos_food_01_dzakqc",
+      "artesanos_table_01_ryfvmb",
+      "artesanos_interior_01_hjlgks",
+      "artesanos_coffee_02_yvpn2m"
     ],
     "visit": {
       "title": "Visítanos",
-      "text": "Paraguayo Independiente 821 — Asunción. Te esperamos para un café y un buen momento.",
+      "text": "Dr Emilio Hassler y San Roque González de Santa Cruz, Asunción. Te esperamos para un café y un buen momento.",
       "button": "Cómo llegar"
     }
   },
@@ -113,9 +113,9 @@
         "short": "Clásico paraguayo, crocante y con queso.",
         "long": "Ideal para desayunos o meriendas: lo simple, bien hecho, siempre vuelve.",
         "images": [
-          "artesanos_food_01",
-          "artesanos_food_02",
-          "artesanos_table_01"
+          "artesanos_food_01_dzakqc",
+          "artesanos_food_02_pazxnn",
+          "artesanos_table_01_ryfvmb"
         ]
       },
       {
@@ -125,9 +125,9 @@
         "short": "Porción generosa, estilo artesanal.",
         "long": "Rotamos sabores según el día: preguntanos cuál está disponible.",
         "images": [
-          "artesanos_cake_01",
-          "artesanos_cake_02",
-          "artesanos_coffee_01"
+          "artesanos_cake_01_w82lar",
+          "artesanos_cake_02_h2dpnl",
+          "artesanos_coffee_01_jqogfw"
         ]
       }
     ]
@@ -136,7 +136,7 @@
     "title": "Nuestra Historia",
     "subtitle": "Hecho con cariño, pensado para compartir",
     "story": {
-      "image": "artesanos_interior_01",
+      "image": "artesanos_interior_01_hjlgks",
       "paragraphs": [
         "Artesanos nació de una idea simple: crear un lugar donde el café sea el punto de encuentro.",
         "Somos comunidad, sabor y consistencia: buscamos que cada taza mantenga su calidad, acá y donde sea."
@@ -151,7 +151,7 @@
         "bio": "Cuidamos el detalle para que siempre vuelvas por lo que te hace bien."
       }
     ],
-    "bannerImage": "artesanos_banner"
+    "bannerImage": "artesanos_banner_vfrzht"
   },
   "contactPage": {
     "title": "Contáctanos",
@@ -194,7 +194,7 @@
   },
   "seo": {
     "title": "Café en Asunción | Artesanos Café",
-    "description": "Artesanos Café: café, antojos y buenos momentos en Asunción. Te esperamos en Paraguayo Independiente 821.",
+    "description": "Artesanos Café: café, antojos y buenos momentos en Asunción. Te esperamos en Dr Emilio Hassler y San Roque González de Santa Cruz.",
     "keywords": [
       "café en Asunción",
       "cafetería",
@@ -203,6 +203,6 @@
       "desayuno",
       "meriendas"
     ],
-    "ogImage": "og.png"
+    "ogImage": "og.jpg"
   }
 }

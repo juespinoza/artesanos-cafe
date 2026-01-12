@@ -3,7 +3,7 @@
     "name": "Artesanos Café",
     "tagline": "O café nos une ☕️",
     "description": "Apaixonados por café, desejos e bons momentos. O café é o que nos reúne e nos coloca em movimento.",
-    "address": "Paraguayo Independiente 821 (Em frente à Plaza de los Desaparecidos), Assunção, Paraguai",
+    "address": "Dr Emilio Hassler y San Roque González de Santa Cruz, Assunção, Paraguai",
     "hours": {
       "weekdays": "Segunda - Sexta: 9:00 AM - 8:30 PM",
       "weekends": "Sábado - Domingo: 8:30 AM - 9:00 PM"
@@ -15,7 +15,7 @@
       "linktree": "https://linktr.ee/artesanoscafe"
     },
     "googleMapsUrl": "https://maps.app.goo.gl/kZoeiitz4fLTQZr47",
-    "cloudinaryFolder": "artesanos"
+    "cloudinaryFolder": "v1768176795"
   },
   "nav": {
     "home": "Início",
@@ -30,7 +30,7 @@
       "subtitle": "O café é o que nos reúne",
       "text": "Um lugar para compartilhar: café, desejos e bons momentos. Venha viver o ritual com sabor artesanal.",
       "cta": { "label": "Ver o Menu", "href": "menu" },
-      "image": "artesanos_hero"
+      "image": "artesanos_hero_hi1ol0"
     },
     "features": {
       "title": "Por que escolher a Artesanos",
@@ -53,15 +53,15 @@
       ]
     },
     "gallery": [
-      "artesanos_coffee_01",
-      "artesanos_food_01",
-      "artesanos_table_01",
-      "artesanos_interior_01",
-      "artesanos_coffee_02"
+      "artesanos_coffee_01_jqogfw",
+      "artesanos_food_01_dzakqc",
+      "artesanos_table_01_ryfvmb",
+      "artesanos_interior_01_hjlgks",
+      "artesanos_coffee_02_yvpn2m"
     ],
     "visit": {
       "title": "Visite-nos",
-      "text": "Paraguayo Independiente 821 — Assunção. Te esperamos com café e um bom momento.",
+      "text": "Dr Emilio Hassler y San Roque González de Santa Cruz, Assunção. Te esperamos com café e um bom momento.",
       "button": "Como chegar"
     }
   },
@@ -113,9 +113,9 @@
         "short": "Clássico paraguaio, crocante e com queijo.",
         "long": "Perfeito para café da manhã ou lanche: simples, bem feito e sempre vale a pena.",
         "images": [
-          "artesanos_food_01",
-          "artesanos_food_02",
-          "artesanos_table_01"
+          "artesanos_food_01_dzakqc",
+          "artesanos_food_02_pazxnn",
+          "artesanos_table_01_ryfvmb"
         ]
       },
       {
@@ -123,11 +123,11 @@
         "name": "Bolo caseiro",
         "price": 25000,
         "short": "Fatia generosa, estilo artesanal.",
-        "long": "Os sabores variam conforme o dia — pergunte a opção de hoje.",
+        "long": "Os sabores variam conforme o dia, pergunte a opção de hoje.",
         "images": [
-          "artesanos_cake_01",
-          "artesanos_cake_02",
-          "artesanos_coffee_01"
+          "artesanos_cake_01_w82lar",
+          "artesanos_cake_02_h2dpnl",
+          "artesanos_coffee_01_jqogfw"
         ]
       }
     ]
@@ -136,10 +136,10 @@
     "title": "Nossa História",
     "subtitle": "Feito com carinho, pensado para compartilhar",
     "story": {
-      "image": "artesanos_interior_01",
+      "image": "artesanos_interior_01_hjlgks",
       "paragraphs": [
         "A Artesanos nasceu de uma ideia simples: criar um lugar onde o café seja o ponto de encontro.",
-        "Somos comunidade, sabor e consistência — buscamos manter qualidade em cada xícara, aqui e em qualquer lugar."
+        "Somos comunidade, sabor e consistência, buscamos manter qualidade em cada xícara, aqui e em qualquer lugar."
       ]
     },
     "teamTitle": "Nossa Equipe",
@@ -151,7 +151,7 @@
         "bio": "Cuidamos dos detalhes para você sempre voltar pelo que te faz bem."
       }
     ],
-    "bannerImage": "artesanos_banner"
+    "bannerImage": "artesanos_banner_vfrzht"
   },
   "contactPage": {
     "title": "Fale conosco",
@@ -194,7 +194,7 @@
   },
   "seo": {
     "title": "Café em Assunção | Artesanos Café",
-    "description": "Artesanos Café: café, desejos e bons momentos em Assunção. Visite-nos na Paraguayo Independiente 821.",
+    "description": "Artesanos Café: café, desejos e bons momentos em Assunção. Visite-nos na Dr Emilio Hassler y San Roque González de Santa Cruz.",
     "keywords": [
       "café em Assunção",
       "cafeteria",
@@ -203,6 +203,6 @@
       "café da manhã",
       "lanche da tarde"
     ],
-    "ogImage": "og.png"
+    "ogImage": "og.jpg"
   }
 }
