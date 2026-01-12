@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  /* Artesanos - Light */
+  --bg: 250 247 244; /* crema suave */
+  --surface: 255 255 255; /* blanco */
+  --text: 58 40 32; /* cacao */
+  --muted: 130 110 100; /* taupe */
+  --primary: 92 52 38; /* chocolate (marca) */
+  --primary2: 196 155 128; /* beige rosado (logo) */
+  --border: 232 224 218; /* borde cálido */
+
+  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
+  --font-body: "Poppins", ui-sans-serif, system-ui, -apple-system, Segoe UI,
+    Roboto, Arial;
+}
+
+.dark {
+  /* Artesanos - Dark */
+  --bg: 20 15 13; /* espresso */
+  --surface: 32 24 22; /* chocolate oscuro */
+  --text: 246 240 236; /* crema */
+  --muted: 190 175 168; /* beige gris */
+  --primary: 210 176 154; /* latte */
+  --primary2: 140 92 72; /* caramelo */
+  --border: 70 50 42; /* borde tostado */
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+  font-family: var(--font-body);
+}
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+}
+
+@theme {
+  --color-bg: rgb(var(--bg));
+  --color-surface: rgb(var(--surface));
+  --color-text: rgb(var(--text));
+  --color-muted: rgb(var(--muted));
+  --color-primary: rgb(var(--primary));
+  --color-primary2: rgb(var(--primary2));
+  --color-border: rgb(var(--border));
+
+  --radius-xl2: 1.5rem;
+
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.08);
+}

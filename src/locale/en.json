@@ -1,0 +1,208 @@
+{
+  "site": {
+    "name": "Artesanos Café",
+    "tagline": "Coffee brings us together ☕️",
+    "description": "Passionate about coffee, cravings, and great moments. Coffee is what gathers us and keeps us moving.",
+    "address": "Paraguayo Independiente 821 (Across from Plaza de los Desaparecidos), Asunción, Paraguay",
+    "hours": {
+      "weekdays": "Monday - Friday: 9:00 AM - 8:30 PM",
+      "weekends": "Saturday - Sunday: 8:30 AM - 9:00 PM"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/artesanoscafe/",
+      "facebook": "https://www.facebook.com/Artesanoscafe",
+      "whatsapp": "https://wa.me/595984812120",
+      "linktree": "https://linktr.ee/artesanoscafe"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/kZoeiitz4fLTQZr47",
+    "cloudinaryFolder": "artesanos"
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Artesanos Café",
+      "subtitle": "Coffee is what brings us together",
+      "text": "A place to share: coffee, cravings, and good moments. Come enjoy an artisan-flavored ritual.",
+      "cta": { "label": "View Menu", "href": "menu" },
+      "image": "artesanos_hero"
+    },
+    "features": {
+      "title": "Why choose Artesanos",
+      "list": [
+        {
+          "icon": "coffee",
+          "title": "Coffee with identity",
+          "text": "Consistent drinks, flavor and texture you can taste in every cup."
+        },
+        {
+          "icon": "croissant",
+          "title": "Cravings & classics",
+          "text": "Sweet and savory options to pair with your coffee, from morning to afternoon."
+        },
+        {
+          "icon": "heart",
+          "title": "Community & moments",
+          "text": "A spot made for meeting, talking, and coming back."
+        }
+      ]
+    },
+    "gallery": [
+      "artesanos_coffee_01",
+      "artesanos_food_01",
+      "artesanos_table_01",
+      "artesanos_interior_01",
+      "artesanos_coffee_02"
+    ],
+    "visit": {
+      "title": "Visit us",
+      "text": "Paraguayo Independiente 821 — Asunción. We’ll be waiting with coffee and a great moment.",
+      "button": "Get directions"
+    }
+  },
+  "menuPage": {
+    "title": "Our Menu",
+    "subtitle": "Coffee, cravings, and house favorites",
+    "sections": [
+      {
+        "title": "Coffee",
+        "items": [
+          {
+            "name": "Espresso",
+            "desc": "Short, intense, classic.",
+            "price": 15000
+          },
+          {
+            "name": "Cappuccino",
+            "desc": "Espresso with milk and foam.",
+            "price": 18000
+          },
+          { "name": "Latte", "desc": "Smooth, creamy, long.", "price": 20000 }
+        ]
+      },
+      {
+        "title": "Specialties",
+        "items": [
+          {
+            "name": "Signature cappuccino",
+            "desc": "Aromas and details that surprise.",
+            "price": 25000
+          },
+          {
+            "name": "Hot chocolate",
+            "desc": "Creamy and comforting.",
+            "price": 24000
+          }
+        ]
+      }
+    ]
+  },
+  "productsPage": {
+    "title": "Our Products",
+    "subtitle": "To pair with your coffee",
+    "products": [
+      {
+        "id": "mbeju",
+        "name": "Mbejú",
+        "price": 25000,
+        "short": "A Paraguayan classic, crispy and cheesy.",
+        "long": "Perfect for breakfast or afternoon treats: simple, well-made, always worth it.",
+        "images": [
+          "artesanos_food_01",
+          "artesanos_food_02",
+          "artesanos_table_01"
+        ]
+      },
+      {
+        "id": "homemade-cake",
+        "name": "Homemade cake",
+        "price": 25000,
+        "short": "A generous slice, artisan style.",
+        "long": "Flavors rotate daily — ask what’s available today.",
+        "images": [
+          "artesanos_cake_01",
+          "artesanos_cake_02",
+          "artesanos_coffee_01"
+        ]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "Our Story",
+    "subtitle": "Made with care, meant to be shared",
+    "story": {
+      "image": "artesanos_interior_01",
+      "paragraphs": [
+        "Artesanos was born from a simple idea: creating a place where coffee is the meeting point.",
+        "We’re community, flavor, and consistency — aiming for every cup to keep its quality, here and anywhere."
+      ]
+    },
+    "teamTitle": "Our Team",
+    "teamSubtitle": "People behind every cup",
+    "team": [
+      {
+        "name": "Artesanos Team",
+        "role": "Baristas & Service",
+        "bio": "We take care of the details so you always come back for what feels good."
+      }
+    ],
+    "bannerImage": "artesanos_banner"
+  },
+  "contactPage": {
+    "title": "Contact us",
+    "subtitle": "Questions, bookings, and orders",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "sendWhatsapp": "Send via WhatsApp",
+      "sendEmail": "Send via Email"
+    },
+    "reviews": {
+      "title": "Customer reviews",
+      "sourceLabel": "Google Reviews",
+      "rating": 4.6,
+      "count": 0,
+      "items": [
+        {
+          "author": "Verified customer",
+          "rating": 5,
+          "date": "Recent",
+          "text": "Great coffee and the perfect place to catch up. Would definitely return."
+        },
+        {
+          "author": "Verified customer",
+          "rating": 5,
+          "date": "Recent",
+          "text": "Excellent pairings to go with coffee. Very warm service."
+        },
+        {
+          "author": "Verified customer",
+          "rating": 4,
+          "date": "Recent",
+          "text": "Good vibe and well-made coffee. Ideal with friends."
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.2432970152627!2d-57.5822394!3d-25.296028600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da74b6dd8ce1b%3A0x24b002e890153c04!2sArtesanos%20Caf%C3%A9!5e0!3m2!1ses-419!2spy!4v1768174322377!5m2!1ses-419!2spy",
+      "mapReviewsLink": "https://www.google.com/maps/place/Artesanos+Caf%C3%A9/@-25.2960286,-57.5822394,17z/data=!4m8!3m7!1s0x945da74b6dd8ce1b:0x24b002e890153c04!8m2!3d-25.2960286!4d-57.5822394!9m1!1b1!16s%2Fg%2F11qgkbgf5b?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
+    }
+  },
+  "seo": {
+    "title": "Coffee in Asunción | Artesanos Café",
+    "description": "Artesanos Café: coffee, cravings, and great moments in Asunción. Visit us at Paraguayo Independiente 821.",
+    "keywords": [
+      "coffee in Asunción",
+      "coffee shop",
+      "Artesanos Café",
+      "mbejú",
+      "breakfast",
+      "afternoon treats"
+    ],
+    "ogImage": "og.png"
+  }
+}
